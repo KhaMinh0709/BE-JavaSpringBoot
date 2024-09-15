@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3322e20f-8fb9-4be0-b0a7-4b358a0a894d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/src/main/java/com/devjavaminh/be04springbootannotation/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/src/main/java/com/devjavaminh/be04springbootannotation/Be04SpringBootAnnotationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/src/main/java/com/devjavaminh/be04springbootannotation/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/src/main/java/com/devjavaminh/be04springbootannotation/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/src/main/java/com/devjavaminh/be04springbootannotation/OldLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/src/test/java/com/devjavaminh/be04springbootannotation/Be04SpringBootAnnotationApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE04-SpringBoot-Annotation/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/src/main/java/com/devjavaminh/be05springbootcomponenta_autowirea/Be05SpringBootComponentAAutowireAApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/src/main/java/com/devjavaminh/be05springbootcomponenta_autowirea/Bikini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/src/main/java/com/devjavaminh/be05springbootcomponenta_autowirea/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/src/main/java/com/devjavaminh/be05springbootcomponenta_autowirea/Outfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE05-SpringBoot-ComponentA_AutowireA/src/test/java/com/devjavaminh/be05springbootcomponenta_autowirea/Be05SpringBootComponentAAutowireAApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE06-SpringBoot_Primary_Qualifier/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE06-SpringBoot_Primary_Qualifier/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE06-SpringBoot_Primary_Qualifier/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE06-SpringBoot_Primary_Qualifier/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE06-SpringBoot_Primary_Qualifier/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE06-SpringBoot_Primary_Qualifier/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE06-SpringBoot_Primary_Qualifier/src/main/java/com/devjavaminh/be06springboot_primary_qualifier/Be06SpringBootPrimaryQualifierApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE06-SpringBoot_Primary_Qualifier/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE06-SpringBoot_Primary_Qualifier/src/test/java/com/devjavaminh/be06springboot_primary_qualifier/Be06SpringBootPrimaryQualifierApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/src/main/java/com/devjavaminh/be07springbootservicerepositorycomponent/Be07SpringBootServiceRepositoryComponentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/src/main/java/com/devjavaminh/be07springbootservicerepositorycomponent/model/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/src/main/java/com/devjavaminh/be07springbootservicerepositorycomponent/repository/GirlRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/src/main/java/com/devjavaminh/be07springbootservicerepositorycomponent/repository/imp/GirlRepositortIml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/src/main/java/com/devjavaminh/be07springbootservicerepositorycomponent/service/GirlService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE07-SpringBoot-Service-Repository-component/src/test/java/com/devjavaminh/be07springbootservicerepositorycomponent/Be07SpringBootServiceRepositoryComponentApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/src/main/java/com/devjavaminh/be08springbootcomponentscan/Be08SpringBootComponentScanApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/src/main/java/com/devjavaminh/be08springbootcomponentscan/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/src/main/java/com/devjavaminh/be08springbootcomponentscan/other/OtherGirl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BE08-SpringBoot-ComponentScan/src/test/java/com/devjavaminh/be08springbootcomponentscan/Be08SpringBootComponentScanApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devjavaminh/be09springbootconfiguration/AppConf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devjavaminh/be09springbootconfiguration/Be09SpringBootConfigurationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devjavaminh/be09springbootconfiguration/MyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/devjavaminh/be09springbootconfiguration/Be09SpringBootConfigurationApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2m6vnADDC9bxXWcXxjUM7Go3g1J" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Be09SpringBootConfigurationApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Be09SpringBootConfigurationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="BE09-SpringBoot-Configuration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devjavaminh.be09springbootconfiguration.Be09SpringBootConfigurationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3322e20f-8fb9-4be0-b0a7-4b358a0a894d" name="Changes" comment="" />
+      <created>1726410015335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726410015335</updated>
+      <workItem from="1726410016374" duration="789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
